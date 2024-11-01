@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7999CE-C9BA-4298-8B02-AF3C2AF57D01}|web-app-domain\\web-app-domain.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-domain\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7999CE-C9BA-4298-8B02-AF3C2AF57D01}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\produtosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\produtosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\iprodutosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\iprodutosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7999CE-C9BA-4298-8B02-AF3C2AF57D01}|web-app-domain\\web-app-domain.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7999CE-C9BA-4298-8B02-AF3C2AF57D01}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\web-app-repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F92FC61-53D9-4E12-966D-7925B1A2C961}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\web-app-repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|c:\\users\\guilh\\onedrive\\documentos\\study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\web-app-performance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1790880C-43BC-4FA1-8DA7-14A9A10E7D84}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\web-app-performance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-domain\\Produtos.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Produtos.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-domain\\Produtos.cs",
+              "RelativeToolTip": "web-app-domain\\Produtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:51:34.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\ProdutosRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\ProdutosRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\ProdutosRepository.cs",
+              "RelativeToolTip": "web-app-repository\\ProdutosRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:54:50.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\Controllers\\ProdutosController.cs*",
+              "RelativeToolTip": "web-app-performance\\Controllers\\ProdutosController.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAywD0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:11:10.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "web-app-repository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:39:02.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:01:11.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "web-app-repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:10:32.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProdutosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\IProdutosRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\IProdutosRepository.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\IProdutosRepository.cs",
+              "RelativeToolTip": "web-app-repository\\IProdutosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:56:25.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\Program.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Program.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\Program.cs",
+              "RelativeToolTip": "web-app-performance\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:47:24.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Usuario.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-domain\\Usuario.cs",
+              "RelativeToolTip": "web-app-domain\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:25:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "web-app-repository.csproj",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\web-app-repository.csproj",
+              "RelativeDocumentMoniker": "web-app-repository\\web-app-repository.csproj",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-repository\\web-app-repository.csproj",
+              "RelativeToolTip": "web-app-repository\\web-app-repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T23:41:14.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "web-app-performance.csproj",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\web-app-performance.csproj",
+              "RelativeDocumentMoniker": "web-app-performance\\web-app-performance.csproj",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-performance\\web-app-performance.csproj",
+              "RelativeToolTip": "web-app-performance\\web-app-performance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T01:49:32.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

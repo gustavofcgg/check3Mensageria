@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fY0v1lQTAWU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Study\\web-app-refatorado-produtos\\web-app-performance\\web-app-domain\\web-app-domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
